@@ -5,6 +5,7 @@ using VendasMVC.Models.ErroViewModels;
 
 namespace VendasMVC.Controllers
 {
+    //teste
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
